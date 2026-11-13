@@ -1,0 +1,1 @@
+Preguntas, datos y hallazgos (lo que lee el gerente/cliente/reclutador)

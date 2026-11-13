@@ -10,13 +10,15 @@ wheels/
 .venv
 
 # Data (keep only the folder structure)
-data/raw/*
+**/data/raw/*
 !data/raw/.gitkeep
-data/processed/*
+**/data/processed/*
 !data/processed/.gitkeep
 
 # Local databases
 *.duckdb
+*.wal
+*.parquet
 
 # Secrets
 .env
